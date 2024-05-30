@@ -1,0 +1,57 @@
+
+.block{
+    width: 600px;
+    background-color: aqua ;
+    height: 20px;
+    padding: 10px;
+
+}
+.title{
+    size: 48px;
+    text-align: right;
+    line-height: 10px;
+}
+div{
+    display: inline-block;
+}
+.conteiner{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    text-align: center;
+    padding-top: 10px;
+}
+.conteiner2{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(215, 250, 223);
+    text-align: center;
+    padding-top: 10px;
+    margin: 20px;
+
+
+}
+.conteiner3{
+    width: 200px;
+    height: 200px;
+    background-color:blue ;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0px;
+    
+}
+.conteiner4{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(240, 17, 236) ;
+    text-align: center;
+    padding-top: 10px;
+    margin: 20px;
+}
+img{
+    width: 400px;
+    height: 200px;
+    margin-top:20px;
+    border-radius:15px;
+   
+}
